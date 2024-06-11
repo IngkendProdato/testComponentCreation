@@ -1,0 +1,4 @@
+PersonDetailsData #class
+test.component.creation.PersonDetails #namespace
+person test.component.creation.Person #field
+person PERSISTENT #fieldModifier

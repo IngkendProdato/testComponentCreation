@@ -1,0 +1,7 @@
+Person #class
+test.component.creation #namespace
+
+firstname String #field
+firstname PERSISTENT #fieldModifier
+lastname String #field
+lastname PERSISTENT #fieldModifier

@@ -1,0 +1,6 @@
+ParentDialogData #class
+test.component.creation.ParentDialog #namespace
+persons List<test.component.creation.Person> #field
+persons PERSISTENT #fieldModifier
+selected test.component.creation.Person #field
+selected PERSISTENT #fieldModifier
